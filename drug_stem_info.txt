@@ -1,0 +1,488 @@
+-abine	(see -arabine, -citabine)	decit<em>abine</em>
+-ac	Anti-inflammatory agents (acetic acid derivatives)	bromfen<em>ac</em>; dexpemedol<em>ac</em>
+-acetam	See -racetam	
+-actide	Synthetic corticotropins	ser<em>actide</em>
+-adol, -aldol-	Analgesics (mixed opiate receptor agonists/ antagonists)	taz<em>adol</em>ene; spir<em>adol</em>ene; levonantr<em>adol</em>
+-adox	Antibacterials (quinoline dioxide derivatives)	carb<em>adox</em>
+-afenone	Antiarrhythmics (propafenone derivatives)	alpr<em>afenone</em>; dipr<em>afenone</em>
+-afil	PDE5 inhibitors	tadal<em>afil</em>
+-aj-	Antiarrhythmics (ajmaline derivatives)	lor<em>aj</em>mine
+-aldrate	Antacid aluminum salts	mag<em>aldrate</em>
+-algron	Alpha1 - and alpha2 - adrenoreceptor agonists	dabuz<em>algron</em>
+-alol	Combined alpha and beta blockers	labet<em>alol</em>; medrox<em>alol</em>
+-amivir	(see -vir)	
+-ampa	Ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors)	
+	-ampanel	Ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors); antagonists	bec<em>ampanel</em>
+	-ampator	Ionotropic non-NMDA glutamate receptors (AMPA and/or KA receptors); modulators	for<em>ampator</em>
+-andr-	androgens	n<em>andr</em>olone
+-anib	Angiogenesis inhibitors	semax<em>anib</em>
+-anserin	Serotonin 5-HT2 receptor antagonists	alt<em>anserin</em>; trop<em>anserin</em>; adat<em>anserin</em>
+-antel	Anthelmintics (undefined group)	carb<em>antel</em>
+-antrone	Antineoplastics; anthraquinone derivatives	pix<em>antrone</em>
+-apsel	P-selectin antagonists	tor<em>apsel</em>
+-arabine	Antineoplastics (arabinofuranosyl derivatives)	faz<em>arabine</em>; flud<em>arabine</em>
+aril-, -aril, -aril-	Antiviral (arildone derivatives)	plecon<em>aril; aril</em>done; fos<em>arilate</em>
+-arit	Antirheumatics (lobenzarit type)	lobenz<em>arit</em>; clobuz<em>arit</em>
+-arol	Anticoagulants (dicumarol type)	dicum<em>arol</em>
+-arone	Antiarrhythmics	amiod<em>arone</em>; droned<em>arone</em>
+-arot-	Arotinoids	et<em>arot</em>ene; sum<em>arot</em>ene; taz<em>arot</em>ene
+	-arotene	Arotinoid derivatives	bex<em>arotene</em>; lin<em>arotene</em>; taz<em>arotene</em>
+arte-	Antimalarials (artemisin derivatives)	<em>arte</em>flene
+-ase	Enzymes	alglucer<em>ase</em>; dorn<em>ase</em> alfa
+	-dismase	Enzymes; superoxide dismutase activity (exception: orgotein)	su<em>dismase</em>
+	-teplase	Enzymes; tissue-type plasminogen activators	al<em>teplase</em>; du<em>teplase</em>; sil<em>teplase</em>
+	-uplase	Enzymes; urokinase-type plasminogen activators	sar<em>uplase</em>; nasar<em>uplase</em>
+-ast	Antiasthmatics/antiallergics (not acting primarily as antihistamines; leukotriene biosynthesis inhibitors)	
+	-lukast	Antiasthmatics/antiallergics; leukotriene receptor antagonists	cina<em>lukast</em>; pobi<em>lukast</em>
+	-milast	Antiasthmatics/antiallergics; type IV phosphodiesterase inhibitors	picla<em>milast</em>
+	-trodast	Antiasthmatics/antiallergics; thromboxane A2 receptor antagonists	sera<em>trodast</em>
+	-zolast	Antiasthmatics/antiallergics; benzoxazole derivatives	ecla<em>zolast</em>; ont<em>azolast</em>
+	-tegr-	Antiasthmatics/antiallergics; integrin antagonists	vala<em>tegrast</em>
+-astine	Antihistaminics (histamine-H1 receptor antagonists)	eb<em>astine</em>
+-(a)tadine	Tricyclic histaminic-H1 receptor antagonists, loratadine derivatives	deslora<em>tadine</em>; rupa<em>tadine</em>; soman<em>tadine</em>
+-atadine	Tricyclic antiasthmatics	olop<em>atadine</em>; lor<em>atadine</em>
+-axine	Antianxiety, antidepressant inhibitor of norepinephrine and dopamine re-uptake	
+-(f)axine		rada<em>faxine</em>
+-azenil	Benzodiazepine receptor agonists/antagonists	bret<em>azenil</em>; flum<em>azenil</em>
+-azepam	Antianxiety agents (diazepam type)	lor<em>azepam</em>
+-azepide	Cholecystokinin receptor antagonists	dev<em>azepide</em>
+-azocine	Narcotic antagonists/agonists (6,7-benzomorphan derivatives)	quad<em>azocine</em>; ket<em>azocine</em>
+-azoline	Antihistamines/local vasoconstrictors (antazoline type)	ant<em>azoline</em>
+-azosin	Antihypertensives (prazosin type)	dox<em>azosin</em>
+-bactam	Beta-lactamase inhibitors	sul<em>bactam</em>
+-bamate	Tranquilizers/antiepileptics (propanediol and pentanediol groups)	mepro<em>bamate</em>; fel<em>bamate</em>
+-barb, -barb-	Barbituric acid derivatives	pheno<em>barb</em>ital; seco<em>barb</em>ital; etero<em>barb</em>
+-begron	Beta 3 adrenoreceptor agonist	tali<em>begron</em>
+-bendazole	Anthelmintics (tibendazole type)	cam<em>bendazole</em>
+-berel	Beta estrogen receptor agonist	prina<em>berel</em>
+-bersat	Anticonvulsants; antimigraine (benzoylamino-benzpyran derivatives)	cara<em>bersat</em>; tidem<em>bersat</em>
+bol-, -bol-	Anabolic steroids	<em>bol</em>andiol; mi<em>bol</em>erone
+-bufen	Non-steroidal anti-inflammatory agents, fenbufen derivatives	indo<em>bufen</em>
+-bulin	Antineoplastics (mitotic inhibitors; tubulin binders)	mivo<em>bulin</em>
+-butan	Antiseptics (dapabutan type)	dapa<em>butan</em>; lopo<em>butan</em>
+-butazone	Anti-inflammatory analgesics (phenylbutazone type)	mofe<em>butazone</em>
+-caine	Local anesthetics	dibu<em>caine</em>
+calci-, -calci-	Vitamin D analogues	<em>calci</em>potriene; ta<em>calci</em>tol
+-camra	Antivirals (intracellular adhesion molecules, icam-1 derivatives)	trema<em>camra</em>
+-camsule	Camphorsulfonic acid derivatives used as UVA sunscreens	e<em>camsule</em>
+-casan	Caspase (interleukin �1b) converting enzyme inhibitors	pralna<em>casan</em>
+-caserin	Serotonin receptor agonists, primarily 5-HT2	lor<em>caserin</em>; vabi<em>caserin</em>
+-castat	(see -stat)	
+-carbef	Antibiotics (carbacephem derivatives)	lora<em>carbef</em>
+-catib	Cathespin inhibitors	bali<em>catib</em>
+-cavir	(see -vir)	
+cef-	Cephalosporins	<em>cef</em>azolin
+-cept	Receptor molecules, native or modified ( a preceding infix should designate the target)	al<em>vircept</em>
+	-co-	Receptor molecules, native or modified;complement receptors	miro<em>cocept</em>
+	-facept	Receptor molecules, native or modified;lymphocyte function-associated with antigen 3 (LFA) receptor	ale<em>facept</em>
+	-farcept	Receptor molecules, native or modified; interferon receptors	pi<em>farcept</em>
+	-lefacept	Receptor molecules, native or modified; lymphocyte function-associated antigen 3	a<em>lefacept</em>
+	-nercept	Receptor molecules, native or modified; tumor necrosis factor receptors	le<em>nercept</em>
+	-vircept	Receptor molecules, native or modified; antiviral receptors	al<em>vircept</em>
+-cet	Receptors (small molecule)	
+	-calcet	Receptors (small molecule); calcium	te<em>calcet</em>
+-cetrapib	Cholesterol ester transfer protein inhibitors	tor<em>cetrapib</em>
+-cic	Hepatoprotectives (timonacic type)	limazo<em>cic</em>
+-ciclib	Cyclin dependent kinase inhibitors	seli<em>ciclib</em>
+-ciclovir	(see -vir)	
+-cidib	Cyclin dependent kinase inhibitor	alvo<em>cidib</em>
+-cidin	Natural antibiotics (undefined group)	grami<em>cidin</em>
+-ciguat	Guanaline cyclase activator	ata<em>ciguat</em>; atri<em>ciguat</em>
+-cillin	Penicillins	ampi<em>cillin</em>
+-citabine	Nucleoside antiviral or antineoplastic agents, cytarabine or azarabine derivatives	gem<em>citabine</em>; fia<em>citabine</em>; zal<em>citabine</em>
+-clidine	Muscarinic agonists (various indications)	veda<em>clidine</em>; talsa<em>clidine</em>
+-clone	Hypnotics/tranquilizers (zopiclone type)	pago<em>clone</em>
+-cog	Blood coagulation factors	
+	-eptacog	Blood coagulation factors; blood coagulation factor VII	<em>eptacog</em> alfa (activated)
+	-nonacog	Blood coagulation factors; blood coagulation factor IX	<em>nonacog</em> alfa
+	-octocog	Blood coagulation factors; blood coagulation factor VIII	mor<em>octocog</em> alfa; <em>octocog</em> alfa
+-cogin	Blood coagulation cascade inhibitor	tifa<em>cogin</em>
+-conazole	Systemic antifungals (miconazole type)	flu<em>conazole</em>; oxi<em>conazole</em>
+-cort-	Cortisone derivatives	hydro<em>cort</em>isone
+-coxib	Cyclooxygenase-2 inhibitors	cele<em>coxib</em>; pare<em>coxib</em>; valde<em>coxib</em>
+-cridar	(see -dar)	
+-crinat	Diuretics (ethacrynic acid derivatives)	bro<em>crinat</em>
+-crine	Acridine derivatives	amsa<em>crine</em>; quina<em>crine</em>
+-cromil	Antiallergics (cromoglicic acid derivatives)	nedo<em>cromil</em>
+-curium, -curonium	Neuromuscular blocking agents (quaternary ammonium compounds)	atra<em>curium</em>; al<em>curonium</em>; pipe<em>curonium</em>
+-cycline	Antibiotics (tetracycline derivatives)	mino<em>cycline</em>
+-dan	Positive inotropic agents (pimobendan type)	prinoxo<em>dan</em>; indoli<em>dan</em>
+-dapsone	Antimycobacterials (diaminodiphenylsulfone derivatives)	ace<em>dapsone</em>
+-dar	Multidrug resistance inhibitors	
+	-cridar	Multidrug resistance inhibitors;acridine carboxamide derivatives	ela<em>cridar</em>
+	-icodar	Multidrug resistance inhibitors;pipecolic acid derivatives	bir<em>icodar</em>
+	-quidar	Multidrug resistance inhibitors; quinoline derivatives	lami<em>quidar</em>; zozu<em>quidar</em>
+	-spodar	Multidrug resistance inhibitors; ciclosporin D derivatives	val<em>spodar</em>
+-denoson	Adenosine A receptor agonists	teca<em>denoson</em>; bino<em>denoson</em>
+-dermin	(see -ermin)	
+dil-, -dil-, -dil	Vasodilators (undefined group)	foste<em>dil</em>
+-dipine	Phenylpyridine vasodilators (nifedipine type)	daro<em>dipine</em>; felo<em>dipine</em>
+-dismase	(see -ase)	
+-distim	(see -stim)	
+-ditan	Antimigraine (5-HT1 receptor agonists)	alni<em>ditan</em>
+-dopa	Dopamine receptor agonists	levo<em>dopa</em>
+-dore	Dopamine D2D3 receptor modulators	aplin<em>dore</em> fumarate
+-dotin	Synthetic analogs of the dolastatin series	tasi<em>dotin</em> HCl
+-dralazine	Antihypertensives (hydrazine-phthalazines)	hy<em>dralazine</em>; en<em>dralazine</em>
+-dronate	Calcium metabolism regulators	eti<em>dronate</em>; tilu<em>dronate</em>
+-dutant	(see -tant)	
+-ectedin	Ecteinascodin derivatives	mon<em>ectedin</em>
+-ectin	Antiparasitics (ivermectin type)	doram<em>ectin</em>; moxid<em>ectin</em>
+-elestat	(see -stat)	
+-elvakin	(see -kin)	
+-emcinal	Erythromycin derivatives lacking antibiotic activity	mit<em>emcinal</em>
+-entan	Endothelin receptor antagonists	bos<em>entan</em>
+-eptacog	(see -cog)	
+-eptakin	(see -kin)	
+-erg-	Ergot alkaloid derivatives	p<em>erg</em>olide
+-eridine	Analgesics (meperidine type)	anil<em>eridine</em>
+-ermin	Growth factors	
+	-bermin	Growth factors; vascular endothelial growth factors	tel<em>bermin</em>
+	-dermin	Growth factors; epidermal growth factors	muro<em>dermin</em>
+	-fermin	Growth factors; fibroblast growth factors	erso<em>fermin</em>
+	-nermin	Growth factors; tumor necrosis factors	so<em>nermin</em>; taso<em>nermin</em>
+	-plermin	Growth factors; platelet derived growth factors	beca<em>plermin</em>
+	-sermin	Growth factors; insulin-like growth factors	meca<em>sermin</em>
+	-termin	Growth factors; transforming growth factors	ce<em>termin</em>
+	-otermin	Growth factors; bone morphogenetic proteins	dib<em>otermin</em> alfa
+estr-, -estr-	Estrogens	<em>estr</em>one; fen<em>estr</em>el
+	-estrant	Estrogen antagonists	fulv<em>estrant</em>
+-etanide	Diuretics (piretanide type)	bum<em>etanide</em>
+-exakin	(see -kin)	
+-ezolid	Oxazolidinone antibacterials	eper<em>ezolid</em>; lin<em>ezolid</em>
+-farnib	Farnesyl transferase inhibitor	tipi<em>farnib</em>
+-fenamate	"fenamic acid" ester, salt derivatives	eto<em>fenamate</em>
+-fenamic acid	Anti-inflammatory agents (anthranilic acid derivatives)	flu<em>fenamic acid</em>
+-fenin	Diagnostic aids ((phenylcarbamoyl)methyl iminodiacetic acid derivatives)	arclo<em>fenin</em>
+-fenine	Analgesics (fenamic acid subgroup)	flocta<em>fenine</em>
+-fentanil	Narcotic analgesics (fentanyl derivatives)	al<em>fentanil</em>; mir<em>fentanil</em>; bri<em>fentanil</em>
+-fentrine	Phosphodiesterase inhibitor	puma<em>fentrine</em>
+-fermin	(see -ermin)	
+-fetamin(e)	Amfetamine derivatives	levmetam<em>fetamine</em>
+-fiban	Fibrinogen receptor antagonists (glycoprotein IIb/IIIa receptor antagonists)	lami<em>fiba</em>n; tiro<em>fiban</em>
+-fibatide	(see -tide)	
+-fibrate	Antihyperlipidemics (clofibrate type)	beza<em>fibrate</em>
+-filcon	Hydrophilic contact lens materials	alpha<em>filcon</em> A; xylo<em>filcon</em> A; mipa<em>filcon</em> A
+-fingol	Sphingosine derivatives	cede<em>fingol</em>; sa<em>fingol</em>
+-flapon	5-lipoxygenase-activating protein (FLAP) inhibitors	qui<em>flapon</em>
+-flurane	General inhalation anesthetics (halogenated alkane derivatives)	en<em>flurane</em>
+-fo-	Phosphoro-derivatives	ade<em>fo</em>vir
+-focon	Hydrophobic contact lens materials	tri<em>focon</em> A; pasi<em>focon</em> B; sata<em>focon</em> A
+-formin	Hypoglycemics (phenformin type)	bu<em>formin</em>
+-fradil	Calcium channel blockers acting as vasodilators	mibe<em>fradil</em>
+-fulven	Antineoplastic, acylfulven derivatives	virido<em>fulven</em>
+-fungin	Antifungal antibiotics (undefined group)	kala<em>fungin</em>
+-fylline	Theophylline derivatives	enpro<em>fylline</em>; bam<em>ifylline</em>; cipam<em>fylline</em>
+-gab-	Gabamimetics	fen<em>gab</em>ine
+gado-	Gadolinium derivatives (principally for diagnostic use)	<em>gado</em>diamide; <em>gado</em>teridol; <em>gado</em>benate
+-gapil	Neuronal apoptosis inhibitors; GAPDH	omi<em>gapil</em>
+-ganan	Antimicrobial, bactericidal permeability increasing polypeptide	ise<em>ganan</em>; pexi<em>ganan</em>
+-gatran	Thrombin inhibitors (argatroban type)	efe<em>gatran</em>
+-gest-	Progestins	me<em>gest</em>rol
+-giline	MAO inhibitors, type B	sele<em>giline</em>
+-gillin	Antibiotics (Aspergillus strains)	mito<em>gillin</em>
+gli-	Antihyperglycemics	<em>gli</em>flumide
+-gliptin	Antihyperglycemics; dipeptidyl aminopeptidase-IV inhibitors	vilda<em>gliptin</em>
+-glitazar	Antihyperglycemics; PPAR agonists (not thiazolidene derivatives)	far<em>glitizar</em>
+-glitazone	Antihyperglycemics; PPST agonists (thiazolidene derivatives)	ci<em>glitazone</em>; rosi<em>glitazone</em>
+-glumide	CCK antagonists, antiulcer, anxiolytic agent	ami<em>glumide</em>; itrig<em>lumide</em>
+-golix	GnRH receptor antagonists (nonpeptide)	rupu<em>golix</em>
+-gosivir	(see -vir)	
+-gramostim	(see -stim)	
+-grastim	(see -stim)	
+-grel-, -grel	Platelet aggregation inhibitors (undefined group)	itazi<em>grel</em>; dimeta<em>grel</em>; fure<em>grel</em>ate
+guan-	Antihypertensives (guanidine derivatives)	<em>guan</em>octine
+-ibat	Ileal bile acid transport inhibitor	barix<em>ibat</em>
+-icam	Anti-inflammatory agents (isoxicam type)	enol<em>icam</em>; tenox<em>icam</em>
+-icodar	(see -dar)	
+-ifen(e)	Antiestrogens of the clomifene and tamoxifen groups	nitrom<em>ifene</em>; ralox<em>ifene</em>; drolox<em>ifene</em>
+-ilide	Class III antiarrhythmic agents	ibut<em>ilide</em>; risot<em>ilide</em>; dofet<em>ilide</em>
+-imepodib	Inosine monophosphate dehydrogenase inhibitors	mer<em>imepodib</em>
+-imex	Immunostimulants	forfen<em>imex</em>; roquin<em>imex</em>; uben<em>imex</em>
+-imibe-	Antihyperlipidaemics, acyl CoA: cholesterol acyltransferase (ACAT) inhibitors	eldac<em>imibe</em>; avas<em>imibe</em>; pact<em>imibe</em>
+-imod	Immunomodulators	ivar<em>imod</em>; pido<em>timod</em>
+	-mapimod	Immunomodulators; mitogen-activated protein (MAP) kinase inhibitors	dor<em>mapimod</em>
+-imus	Immunosuppressives	tacrol<em>imus</em>; napir<em>imus</em>; gusper<em>imus</em>; sirol<em>imus</em>
+io-	Iodine-containing contrast media	<em>io</em>damide
+-irudin	Anticoagulants (hirudin type)	des<em>irudin</em>
+-isant	Histamine H3 receptor antagonists	cipral<em>isant</em>
+-isomide	Antiarrhythmics (disopyramide derivatives)	bid<em>isomide</em>
+-ium, -onium	Quaternary ammonium derivatives	clidin<em>ium</em>; disiquon<em>ium</em>; polixeton<em>ium</em>
+-ixafor	CXCR4 antagonists	pler<em>ixifor</em>
+-kacin	Antibiotics obtained from Streptomyces kanamyceticus (related to kanamycin)	ami<em>kacin</em>
+-kalant	Potassium channel antagonists	almo<em>kalant</em>; ter<em>ikalant</em>
+-kalim	Potassium channel agonists	croma<em>kalim</em>; apri<em>kalim</em>
+-kalner	Opener of large conductance calcium-activated (maxi-k) K+ channels	flindo<em>kalner</em>
+-kef-	Enkephalin agonists (various indications)	met<em>keph</em>amide; caso<em>kef</em>amide
+-kin	Interleukin type substances	
+	-decakin	Interleukin type substances; interleukin-10 analogues and derivatives	ilo<em>decakin</em>
+	-dodekin	Interleukin type substances; interleukin-12 analogues and derivatives	edo<em>dekin</em> alfa
+	-elvekin	Interleukin type substances; interleukin 11 analogues and derivatives	opr<em>elvekin</em>
+	-eptakin	Interleukin type substances; interleukin 7 analogues and derivatives	
+	-exakin	Interleukin type substances; interleukin 6 analogues and derivatives	ate<em>xakin</em> alfa
+	-leukin	Interleukin type substances; interleukin 2 analogues and derivatives	tece<em>leukin</em>; aldes<em>leukin</em>
+	-nakin	Interleukin 1 analogues and derivatives	
+	-onakin	Interleukin 1 analogues and derivatives; interleukin 1-a analogues and derivatives	pit<em>onakin</em>
+	-benakin	Interleukin 1 analogues and derivatives; iinterleukin 1-b analogues and derivatives	mobe<em>nakin</em>
+	-nonakin	Interleukin 1 analogues and derivatives; iinterleukin 9 analogues and derivatives	
+	-octakin	Interleukin 1 analogues and derivatives; iinterleukin 8 analogues and derivatives	em<em>octakin</em>
+	-penkin	Interleukin 1 analogues and derivatives; iinterleukin 5 analogues and derivatives	
+	-trakin	Interleukin 1 analogues and derivatives; iinterleukin 4 analogues and derivatives	bine<em>trakin</em>
+-kinra	Interleukin receptor antagonists	
+	-nakinra	Interleukin receptor antagonists; interleukin 1 (IL-1) receptor antagonists	a<em>nakinra</em>
+-kiren	Renin inhibitors	dite<em>kiren</em>; terla<em>kiren</em>; zan<em>kiren</em>
+-lazad	Lipid peroxidation inhibitors	tiri<em>lazad</em>
+-leptin	Leptin derivatives	metre<em>leptin</em>
+-leukin	(see -kin)	
+-lind	Pro-apoptotic cGMP phosphodiesterase inhibitors	racta<em>lind</em>; dracta<em>lind</em>
+	-sulind	Pro-apoptotic cGMP phosphodiesterase inhibitors; antineoplastics, sulindac metabolites	exi<em>sulind</em>
+-lipim	Lipoprotein lipase activators	ibro<em>lipim</em>
+-locib	Antineoplastics that inhibit the formation of 5-LO, LTB4, LTC4, and thromboxane B2 (TxB2); and Activate PPARg nuclear receptors	eta<em>locib</em>
+-lubant	Leukotriene receptor antagonists (treatment of inflammatory skin disorders)	tico<em>lubant</em>
+-lukast	(see -ast)	
+-lutamide	Antiandrogens	bica<em>lutamide</em>; f<em>lutamide</em>
+-lutril	Neutral endopeptidase inhibitors possessing additional endothelin converting enzyme inhibitory activity	dag<em>lutril</em>
+-mab	Monoclonal antibodies	imciro<em>mab</em>; abcixi<em>mab</em>; capro<em>mab</em>; daclixi<em>mab</em>; detumo<em>mab</em>; enlimo<em>mab</em>
+	-axo-	Monoclonal antibodies; rat-murine hybrid antibodies	
+	-les-	Monoclonal antibodies; infix for inflammatory/infectious lesions	
+	-toxa-	Monoclonal antibodies; toxin as a target	ur<em>toxa</em>zu<em>mab</em>
+-mantadine, -mantine	Antivirals/antiparkinsonians (adamantane derivatives)	ri<em>mantadine</em>; dopa<em>mantine</em>
+-mastat	(see -stat)	
+-meline	Cholinergic agonists (arecoline derivatives used in treatment of Alzheimer's disease)	xano<em>meline</em>
+-melteon	Selective melatonin receptor agonist	ra<em>melteon</em>
+-mer	Polymers	cadexo<em>mer</em>; carbeti<em>mer</em>
+-mesine	Sigma receptor ligands	ig<em>mesine</em>; pana<em>mesine</em>
+-mestane	Antineoplastics (aromatase inhibitors)	plo<em>mestane</em>
+-metacin	Anti-inflammatory agents (indomethacin type)	zido<em>metacin</em>
+-micin	Antibiotics (Micromonospora strains)	madura<em>micin</em>; genta<em>micin</em>
+-monam	Monobactam antibiotics	gloxi<em>monam</em>; oxi<em>monam</em>; tige<em>monam</em>
+-morelin	(see -relin)	
+-moren	Non-peptidic growth hormone secretagogues	ibuta<em>moren</em>
+-mostim	(see -stim)	
+-motine	Antivirals (quinoline derivatives)	fa<em>motine</em>
+-moxin	Monoamine oxidase inhibitors (hydrazine derivatives)	ben<em>moxin</em>; do<em>moxin</em>
+-mulin	Antibacterials, pleuromulin derivatives	retapa<em>mulin</em>
+-multin	Mucosal tolerance inductors	ismo<em>multin</em>
+-mustine	Antineoplastics (chloroethylamine derivatives)	car<em>mustine</em>
+-mycin	Antibiotics (Streptomyces strains)	linco<em>mycin</em>
+nab-, -nab-	Cannabinol derivatives	<em>nab</em>azenil; dro<em>nab</em>inol
+-nakalant	Mixed sodium/potassium channel blockers	ver<em>nakalant</em>
+-nakin	(see -kin)	
+nal-	Narcotic agonists/antagonists (normorphine type)	<em>nal</em>mefene
+-navir	(see -vir)	
+-nercept	(see -cept)	
+-nermin	(see -ermin)	
+-nertant	Neurotensin receptor antagonists	remi<em>nertant</em>
+-nesib	Kinesin inhibitors	ispi<em>nesib</em>
+-netant	(see -tant)	
+-neurin	Neurotensin receptor antagonists; neurotropins	abri<em>neurin</em>
+-nicline	Nicotinic acetylcholine receptor partial agonists/agonists nonsteroidal anti-inflammatory agents (tenidap	alti<em>nicline</em>
+-nidap	Nonsteroidal anti-inflammatory agents (tenidap type)	ilo<em>nidap</em>; te<em>nidap</em>
+-nidazole	Antiprotozoal substances (metronidazole type)	ti<em>nidazole</em>
+nifur-	5-nitrofuran derivatives	<em>nifur</em>atel; <em>nifur</em>atrone
+-nil	Benzodiazepine receptor antagonists/agonists	
+	-punil	Mitochondrial benzodiazepine receptor (MBR) selective, partial, or inverse agonists (purine derivatives)	ema<em>punil</em>
+	-quinil	Benzodiazepine receptor agonists, also partial or inverse (quinoline derivatives)	lire<em>quinil</em>
+-nixin	Anti-inflammatory agents (anilinonicotinic acid derivatives)	clo<em>nixin</em>
+-nonacog	(see -cog)	
+-nonakin	(see -kin)	
+-octacog	(see -cog)	
+-octakin	(see -kin)	
+-olol	Beta-blockers (propranolol type)	tim<em>olol</em>; aten<em>olol</em>
+-olone	Steroids (not prednisolone derivatives)	minax<em>olone</em>
+-onide	Topical steroids (acetal derivatives)	amcin<em>onide</em>
+-opilone	Epothilone	fil<em>opilone</em>
+-orex	Anorexiants	flud<em>orex</em>
+-orphan	Narcotic antagonists/agonists dextro-(morphinan derivatives)	meth<em>orphan</em>; dextr<em>orphan</em>
+-osuran	Urotensin receptor antagonists	pal<em>osuran</em>
+-otilate	Hepatoprotectants, di-isopropyl-1,3-dithiol- malonate derivatives	miv<em>otilate</em>
+-oxacin	Antibacterials (quinolone derivatives)	difl<em>oxacin</em>; ciprofl<em>oxacin</em>
+-oxan	Alpha-adrenoceptor antagonists (benzodioxane derivatives)	imil<em>oxan</em>
+-oxanide	Antiparasitics (salicylanilide derivatives)	brom<em>oxanide</em>
+-oxef	Antibiotics (oxacefalosporanic acid derivatives)	flom<em>oxef</em>
+-oxetine	Antidepressants (fluoxetine type)	dap<em>oxetine</em>; sepr<em>oxetine</em>
+-pafant	Platelet-activating factor antagonists	a<em>pafant</em>; daco<em>pafant</em>; tulo<em>pafant</em>; lexi<em>pafant</em>
+-pamide	Diuretics (sulfamoylbenzoic acid derivatives)	ali<em>pamide</em>
+-pamil	Coronary vasodilators (verapamil type)	tia<em>pamil</em>
+-pamine	Dopaminergics (butopamine type)	foso<em>pamine</em>; ibo<em>pamine</em>
+-panel	AMPA receptor antagonists	fana<em>panel</em>; irum<em>panel</em>; talam<em>panel</em>
+-parcil	Antithrombotics	beci<em>parcil</em>; ili<em>parcil</em>
+-parcin	Glycopeptide antibiotics	avo<em>parcin</em>
+-parin	Heparin derivatives and low molecular weight (or depolymerized) heparins	he<em>parin</em>; tinza<em>parin</em>; dalte<em>parin</em>
+-parinux	Antithrombotyic indirect selective synthetic factor Xa inhibitors	fonda<em>parinux</em>
+-paroid	Antithrombotics (heparinoid type)	dana<em>paroid</em>; sul<em>paroid</em>
+peg-	PEGylated compounds	<em>peg</em>caristim; <em>peg</em>nartograstim;<em> peg</em>visomant
+-penem	Antibacterial antibiotics (carbapenem derivatives)	imi<em>penem</em>
+-penkin	(see -kin)	
+perflu-	Blood substitutes and/or diagnostics (perfluorochemicals)	<em>perflu</em>bron; <em>perflu</em>nafene
+-peridol	Antipsychotics (haloperidol type)	halo<em>peridol</em>
+-peridone	Antipsychotics (risperidone type)	ris<em>peridone</em>; ilo<em>peridone</em>; oca<em>peridone</em>
+-perone	Antianxiety agents/neuroleptics (4'-fluoro-4-piperidinobutyrophenone derivatives)	duo<em>perone</em>
+-pezil	Acetylcholinesterase inhibitors used in the treatment of Alzheimer�s disease	ico<em>pezil</em>; done<em>pezil</em>
+-pidem	Hypnotics/sedatives (zolpidem type)	zol<em>pidem</em>; al<em>pidem</em>
+-pirdine	Cognition enhancers	lino<em>pirdine</em>; besi<em>pirdine</em>; sibo<em>pirdine</em>
+-pirox	Antimycotics (pyridone derivatives)	ciclo<em>pirox</em>
+-pitant	(see -tant)	
+-plact	Platelet factor 4 analogs and derivatives	iro<em>plact</em>
+-pladib	Phospholipase A2 inhibitors	eco<em>pladib</em>
+-planin	Antibacterials (Actinoplanes strains)	mide<em>planin</em>; ramo<em>planin</em>; teico<em>planin</em>
+-platin	Antineoplastics (platinum derivatives)	cis<em>platin</em>
+-plasninin	Inhibitors of plasminogen activator inhibitors � type 1	ti<em>plasninin</em>
+-plermin	(see -ermin)	
+-plestim	(see -stim)	
+-plon	Non-benzodiazepine anxiolytics, sedatives, hypnotics	ocina<em>plon</em>; zale<em>plon</em>
+-poetin	Erythropoietins	e<em>poetin</em> alfa; e<em>poetin</em> beta
+-porfin	Benzoporphyrin derivatives	verte<em>porfin</em>; temo<em>porfin</em>
+-pramine	Antidepressants (imipramine type)	lofe<em>pramine</em>
+-prazan	Acid pump inhibitors, not dependent on acid activation	omida<em>prazan</em>
+-prazole	Antiulcer agents (benzimidazole derivatives)	ome<em>prazole</em>; disu<em>prazole</em>
+	-maprazole	Antiulcer agents (benzimidazole derivatives); acid pump inhibitors	pu<em>maprazole</em>
+pred-, -pred-, -pred	Prednisone and prednisolone derivatives	<em>pred</em>nicarbate; clo<em>pred</em>nol; oxiso<em>pred</em>
+-pressin	Vasoconstrictors (vasopressin derivatives)	desmo<em>pressin</em>
+-pride	Sulpiride derivatives	remoxi<em>pride</em>; zaco<em>pride</em>
+-pril	Antihypertensives (ACE inhibitors)	enala<em>pril</em>; temoca<em>pril</em>; spira<em>pril</em>
+-prilat	Antihypertensives (ACE inhibitors) (diacid analogs of the -pril entity)	enala<em>prilat</em>; spira<em>prilat</em>
+-prinim	Nootropic agents, purine derivatives	lete<em>prinim</em>
+-prim	Antibacterials (trimethoprim type)	ormeto<em>prim</em>
+-prisnil	Selective progesterone receptor modulators (SPRM)	aso<em>prisnil</em>
+-pristin	Antibacterials, pristinamycin derivatives	quinu<em>pristin</em>; efe<em>pristin</em>
+-pristone	Progesterone receptor antagonists	mife<em>pristone</em>
+-profen	Anti-inflammatory/analgesic agents (ibuprofen type)	flurbi<em>profen</em>
+-prost-, -prost	Prostaglandin derivatives	rio<em>prost</em>il; dino<em>prost</em>
+-protafib	Protein tyrosine phosphatase 1B inhibitors	erti<em>protafib</em>
+-pultide	(see -tide)	
+-proget	Nonsteroidal ligand for the progesterone receptor	tana<em>proget</em>
+-queside	Cholesterol sequestrants (glycosides)	pama<em>queside</em>
+-racetam	Nootropes (piracetam type)	pi<em>racetam</em>
+-racil	Uracil type antineoplastics	enilu<em>racil</em>; geme<em>racil</em>; ote<em>racil</em>
+-relin	Prehormones or hormone-release stimulating peptides subgroups:	nafa<em>relin</em>
+	-morelin	Growth hormone-release stimulating peptides	du<em>morelin</em>
+	-tirelin	Thyrotropin releasing hormone analogues	pro<em>tirelin</em>
+-relix	Hormone-release inhibiting peptides aldosterone antagonists (spironolactone type)	deti<em>relix</em>
+-renone	Aldosterone antagonists (spironolactone type)	can<em>renone</em>
+-restat	(see -stat)	
+-retin-, -retin	Retinol derivatives	et<em>retin</em>ate; pel<em>retin</em>
+-rev	Therapeutic virus	
+	-tucirev	Therapeutic virus; tumoricidal	lon<em>tucirev</em>
+-ribine	Ribofuranil derivatives (pyrazofurin type)	loxo<em>ribine</em>
+rifa-	Antibiotics (rifamycin derivatives)	<em>rifa</em>pentine; <em>rifa</em>mpin
+-rinone	Cardiotonics (amrinone type)	mil<em>rinone</em>
+-rozole	Aromatase inhibitors (imidazole/triazole derivatives)	let<em>rozole</em>; fad<em>rozole</em>; vo<em>rozole</em>
+-rsen	Antisense oligonucleotides	alicafo<em>rsen</em>
+-rubicin	Antineoplastic antibiotics (daunorubicin type)	eso<em>rubicin</em>; idar<em>ubicin</em>
+sal-, -sal-, -sal	Anti-inflammatory agents (salicylic acid derivatives)	me<em>sal</em>amine; difluni<em>sal</em>; bal<em>sal</em>azide
+-sartan	Angiotensin II receptor antagonists	lo<em>sartan</em>; epro<em>sartan</em>
+-semide	Diuretics (furosemide type)	azo<em>semide</em>
+-sermin	(see -ermin)	
+-serod	Serotonin receptor antagonists and partial agonists	pibo<em>serod</em>
+-serpine	Rauwolfia alkaloid derivatives	re<em>serpine</em>
+-setron	Serotonin 5-HT3 antagonists	ondan<em>setron</em>; grani<em>setron</em>; luro<em>setron</em>
+-siban	Oxytocin antagonists	baru<em>siban</em>
+-sidomine	Antianginals (sydnone derivatives)	pir<em>sidomine</em>; mol<em>sidomine</em>; lin<em>sidomine</em>
+som-	Growth hormone derivatives	<em>som</em>atrem; <em>som</em>atropin
+	som--bove	Growth hormone derivatives; bovine somatotropin derivatives	sometri<em>bove</em>
+	som--por	Growth hormone derivatives; porcine somatotropin derivatives	<em>som</em>etri<em>po</em>r; <em>som</em>agre<em>por</em>
+-sonan	5-HT1B receptor antagonists	elza<em>sonan</em>
+-spirone	Anxiolytics (buspirone type)	zalo<em>spirone</em>; tio<em>spirone</em>
+-spodar	(see -dar)	
+-sporin	Immunosuppressants (cyclosporine type)	gecle<em>sporin</em>; oxecl<em>osporin</em>
+-stat-, -stat	Enzyme inhibitors	
+	-castat	Enzyme inhibitors; dopamine beta-hydrolase (DBH) inhibitors	nepi<em>castat</em>
+	-elestat	Enzyme inhibitors; elastase inhibitors	siv<em>elestat</em>
+	-inostat	Enzyme inhibitors; inhibitors of histone deacetylase	dac<em>inostat</em>
+	-mastat	Enzyme inhibitors; antineoplastics (matrix metalloproteinase inhibitors)	bati<em>mastat</em>
+	-(a)mostat	Enzyme inhibitors; proteolytic enzyme inhibitors	naf<em>amostat</em>
+	-restat-, -restat	Aldose-reductase inhibitors	ponal<em>restat</em>; tol<em>restat</em>
+	-vastatin	Antihyperlipidemics (HMG-CoA inhibitors)	ator<em>vastatin</em>; lo<em>vastatin</em>; pra<em>vastatin</em>
+	-urestat	Urease inhibitor	ben<em>urestat</em>
+	-stat-	Renal dehydropeptidase inhibitor	cila<em>stat</em>in
+-stat-	Pepsin inhibitor	pep<em>stat</em>in
+-statin	Renal dehydropeptidase inhibitor pepsin inhibitor	cila<em>statin</em>; pep<em>statin</em>
+-ster-	Steroids (androgens, anabolics)	testo<em>ster</em>one
+-steride	Testosterone reductase inhibitors	epri<em>sterid</em>e; fena<em>steride</em>
+-stigmine	Cholinesterase inhibitors (physostigmine type)	quilo<em>stigmine</em>; teser<em>stigmine</em>
+-stim	Colony-stimulating factors	
+	-distim	Colony-stimulating factors; conjugates of two different types of colony-stimulating factors	milo<em>distim</em>
+	-gramostim	Colony-stimulating factors; granulocyte macrophage colony- stimulating factors (GM-CSF)	mol<em>gramostim</em>; re<em>gramostim</em>; sar<em>gramostim</em>; eco<em>gramostim</em>
+	-grastim	Colony-stimulating factors; granulocyte colony-stimulating factors (G-CSF)	fil<em>grastim</em>; leno<em>grastim</em>
+	-mostim	Colony-stimulating factors; macrophage colony-stimulating factors (M-CSF)	miri<em>mostim</em>
+	-plestim	Colony-stimulating factors; interleukin 3 derivatives; pleiotropic colony-stimulating factors	dani<em>plestim</em>
+-stinel	NMDA receptor antagonists (glycine recognition site)	lico<em>stinel</em>
+-sulam	Antineoplastics, apoptosis inducing sulfonamide	indi<em>sulam</em>
+sulfa-	Antimicrobials (sulfonamides derivatives)	<em>sulfa</em>salazine
+-sulfan	Antineoplastics, alkylating agents (methanesulfonate derivatives)	bu<em>sulfan</em>
+-sulind	(see -lind)	
+-tant	Tachykinin (neurokinin) receptor antagonists	
+	-dutant	Tachykinin (neurokinin) receptor antagonists; NK2 receptor antagonists	sare<em>dutant</em>
+	-netant	Tachykinin (neurokinin) receptor antagonists; NK3 receptor antagonists	osa<em>netant</em>
+	-pitant	Tachykinin (neurokinin) receptor antagonists; NK1 receptor antagonists	da<em>pitant</em>; zina<em>pitant</em>; lane<em>pitant</em>
+-tapide	Microsomal triglyceride transfer protein (MTP) inhibitors	impli<em>tapide</em>
+-taxel	Antineoplastics, taxane derivatives	pacli<em>taxel</em>
+-tecan	Antineoplastics (camptothecine derivatives)	topo<em>tecan</em>; irino<em>tecan</em>
+-tecarin	Antineoplastics (rebeccamycin derivatives)	beca<em>tecarin</em>
+-tepa	Antineoplastics (thiotepa derivatives)	aze<em>tepa</em>
+-teplase	(see -ase)	
+-termin	(see -ermin)	
+-terol	Bronchodilators (phenethylamine derivatives)	albu<em>terol</em>
+-tesind	Thymidilate synthetase inhibitors (benzindole derivatives)	me<em>tesind</em>
+-texafin	Texaphryn derivatives	mo<em>texafin</em>
+-thiazide	Diuretics (thiazide derivatives)	chloro<em>thiazide</em>
+-tiapine	Antipsychotics (dibenzothiazepine derivatives)	qui<em>tiapine</em>
+-tiazem	Calcium channel blockers (diltiazem type)	dil<em>tiazem</em>; clen<em>tiazem</em>; ipro<em>tiazem</em>
+-tibant	Antiasthmatics (bradykinin antagonists)	ica<em>tibant</em>
+-tide	Peptides and glycopeptides	octreo<em>tide</em>
+	-fibatide	Peptides and glycopeptides; platelet aggregation inhibitors (glycoprotein IIb/IIIa receptor antagonists)	epti<em>fibatide</em>
+	-pultide	Peptides and glycopeptides; peptides used as pulmonary surfactants	sina<em>pultide</em>
+-tidine	H2-receptor antagonists (cimetidine type)	lupi<em>tidine</em>; rani<em>tidine</em>; done<em>tidine</em>
+-tinib	Tyrosine kinase inhibitors	caner<em>tinib</em>; ima<em>tinib</em>; mubri<em>tinib</em>
+-tirelin	(see -relin)	
+-tirome	Antihyperlidaemic, thyromimetic derivatives	ani<em>tirome</em>; axi<em>tirome</em>
+-tocin	Oxytocin derivatives	oxy<em>tocin</em>
+-toclax	Antineoplastic, BCL-2 inhibitor	oba<em>toclax</em>
+-toin	Antiepileptics (hydantoin derivatives)	albu<em>toin</em>
+-toran	TLR4 receptor antagonists	eri<em>toran</em>
+-tox(a)-	Toxins	ur<em>toxa</em>zumab
+-traposin	AP2 inhibitors	sel<em>traposin</em>
+-trexate	Antimetabolites (folic acid derivatives)	metho<em>trexate</em>
+-trexed	Antineoplastic thymidylate synthetase inhibitors	peme<em>trexed</em>; rali<em>trexed</em>; nola<em>trexed</em>
+-tricin	Antibiotics (polyene derivatives)	mepar<em>tricin</em>
+-tril, -trilat	Endopeptidase inhibitors	candoxa<em>tril</em>; candoxa<em>trilat</em>
+-triptan	Antimigraine agents (5-HT1 receptor agonists)	nara<em>triptan</em>; oxi<em>triptan</em>; suma<em>triptan</em>
+-triptyline	Antidepressants (dibenzo[a,d]cycloheptane derivatives)	ami<em>triptyline</em>
+-troban	Antithrombotics (thromboxane A2 receptor antagonists)	dal<em>troban</em>; sulo<em>troban</em>
+-trodast	(see -ast)	
+-troline	Antipsychotics (dopamine D2 antagonists)	carvo<em>troline</em>; gevo<em>troline</em>
+-trombopag	Thrombopoetin agonists	el<em>trombopag</em>
+trop-, -trop-	Atropine derivatives	benz<em>trop</em>ine
+-uclin	Mucosal tolerance inhibitors	
+-uplase	(see -ase)	
+-uracil	Uracil derivatives used as thyroid antagonists and as antineoplastics	fluoro<em>uracil</em>
+-uridine	Antivirals; antineoplastics (uridine derivatives)	idox<em>uridine</em>
+-vaptan	Vasopressin receptor antagonists	coni<em>vaptan</em>; relco<em>vaptan</em>
+-vastatin	(see -stat)	
+-verine	Spasmolytic agents (papaverine type)	mebe<em>verine</em>
+vin-, -vin-	Vinca alkaloids	<em>vin</em>epidine; apo<em>vin</em>camine
+vir-, -vir-, -vir	Antiviral substances (undefined group)	ganciclo<em>vir</em>; en<em>vir</em>adine; <em>vir</em>oxime; al<em>vir</em>cept; dela<em>vir</em>dine
+	-amivir	Antiviral substances; neuraminidase inhibitors	zan<em>amivir</em>
+	-cavir	Antiviral substances; carbocyclic nucleosides	lobu<em>cavir</em>
+	-cyclovir	Antiviral substances; (acyclovir type)	a<em>cyclovir</em>
+	-ciclovir	Antiviral substances; (acyclovir type)	des<em>ciclovir</em>; fam<em>ciclovir</em>; pen<em>ciclovir</em>
+	-gosivir	Antiviral substances; glucosidase inhibitor	cel<em>gosivir</em>
+	-navir	Antiviral substances; HIV protease inhibitors (saquinavir type)	droxi<em>navir</em>; indi<em>navir</em>; rito<em>navir</em>
+	-virdine	Antiviral substances; (non-nucleoside reverse transcriptase inhibitors; pyridine derivatives)	ate<em>virdine</em>; dele<em>virdine</em>
+	-virenz	Antivirals (non-nucleoside reverse transcriptase inhibitors; benzoxazinone derivatives)	efa<em>virenz</em>
+	-virsen	Antivirals (antisense)	afo<em>virsen</em>; fomi<em>virsen</em>; treco<em>virsen</em>
+-vircept	(see -cept)	
+-virdine	(see -vir)	
+-virenz	(see -vir)	
+-virimat	Antiviral, disrupts viral maturation	be<em>virimat</em>
+-viroc	CCR5 antagonists	mara<em>viroc</em>
+	-criviroc	CCR5 antagonists, immunomodulators	an<em>criviroc</em>
+-vudine	Antineoplastics; antivirals (zidovudine group) (exception: edoxudine)	sta<em>vudine</em>; lami<em>vudine</em>; alo<em>vudine</em>
+-xaban	Anticoagulant (Factor Xa inhibitor)	tami<em>xaban</em>
+-xanox	Antiallergic respiratory tract drugs (xanoxic acid derivatives)	ti<em>xanox</em>
+-(x)antrone	Antineoplastics, mitoxantrone derivatives aza-anthracenedione class of antitumor agents	pi<em>xantrone</em>
+-zolamide	Carbonic anhydrase inhibitors	brin<em>zolamide</em>; dor<em>zolamide</em>; se<em>zolamide</em>
+-zolast	(see -ast)	
+-zomib	Proteozome inhibitors	borte<em>zomib</em>
+-zotan	5-HT1A receptor agonists/antagonists acting primarily as neuroprotectors	robal<em>zotan</em>; sari<em>zotan</em>; ibal<em>zotan</em>; leco<em>zotan</em>
